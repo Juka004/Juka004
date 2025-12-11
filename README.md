@@ -1,16 +1,34 @@
-## Hi there 👋
 
-<!--
-**Juka004/Juka004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello, I’m Jukaële 
 
-Here are some ideas to get you started:
+I am a developer in training, passionate about continuous learning and open source projects.  
+Currently preparing my application for the [March–June 2026] Outreachy program.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**Current Goals**
+
+- Deepen my mastery of Git, GitHub, and Markdown  
+- Contribute to open source projects  
+- Develop small useful applications  
+- Share what I learn through clear and well-documented repositories
+
+
+**Ongoing Projects**
+
+  [learning-notes](https://github.com/Juka004/learning-notes) – Personal notes on Git, Markdown, and more  
+- Other projects coming soon…
+
+
+ **Skills I’m Learning**
+
+-  Git / GitHub  
+- Markdown  
+- HTML / CSS  
+- JavaScript (basics)  
+
+
+ **Contact Me**
+
+Email: [jnlouisjukaele@gmail.com](mailto:jnlouisjukaele@gmail.com)  
+ GitHub: [Juka004](https://github.com/Juka004)
+
