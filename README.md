@@ -1,55 +1,51 @@
-# Hi, I'm Jukaële 👋
+# Hi, I’m Jukaële 👋
 
-I am a developer in training from Haiti, passionate about continuous learning and open source.
-I am currently preparing my application for the **Outreachy March–June 2026** program.
-
-I mainly work using a smartphone and focus on **clear, beginner-friendly documentation and contributions**.
+I’m a developer in training from Haiti who loves learning and contributing to open source.  
+I enjoy turning what I learn into clear, beginner-friendly documentation that others can actually understand.
 
 
 
-## Current Goals
-- Deepen my mastery of Git, GitHub, and Markdown
-- Contribute to open source projects
-- Build small, useful learning projects
-- Share what I learn through clear and well-documented repositories
+### Choose your language
+
+🇬🇧 English   
+🇫🇷 [Français](README-fr.md)
 
 
 
-## What I Can Contribute
-- Beginner-friendly documentation (README, guides, tutorials)
-- Markdown-based documentation
-- Small improvements to existing docs
-- Clear explanations for new contributors
+## What I’m working on right now
+
+- Getting more comfortable with **Git, GitHub, Termux, and Markdown**  
+- Contributing to open source, step by step  
+- Building small learning projects  
+- Writing simple and clear documentation for beginners
 
 
 
-##  Ongoing Projects
-- **learning-notes** – Personal notes on Git, Markdown, and open source basics  
-- More projects coming soon...
+### What I’m comfortable with
 
-
-##  Skills I’m Learning
-- Git / GitHub
-- Markdown
-- HTML / CSS
-- JavaScript (basics)
+- **Git / GitHub**  
+- **Termux**  
+- **Markdown**
 
 
 
-##  Contact
-- Email: jnlouisjukaele@gmail.com
-- GitHub: [Juka004](https://github.com/Juka004)
+### How I like to contribute
 
- **Skills I’m Learning**
-
--  Git / GitHub  
-- Markdown  
-- HTML / CSS  
-- JavaScript (basics)  
+- Writing **beginner-friendly documentation** (README files, guides, tutorials)  
+- Improving existing docs to make them clearer  
+- Explaining things in a simple way for new contributors
 
 
- **Contact Me**
 
-Email: [jnlouisjukaele@gmail.com](mailto:jnlouisjukaele@gmail.com)  
- GitHub: [Juka004](https://github.com/Juka004)
+### Featured project
 
+- **Outreachy-documentation**  
+  Beginner-friendly guides and notes about Git, Markdown, and Termux.  
+   [View the repository](https://github.com/Juka004/Outreachy-documentation)
+
+
+
+### Let’s connect
+
+- **Email:** jnlouisjukaele@gmail.com  
+- **GitHub:** [Juka004](https://github.com/Juka004)
