@@ -28,7 +28,6 @@ I enjoy turning what I learn into clear, beginner-friendly documentation that ot
 - **Markdown**
 
 
-
 ### How I like to contribute
 
 - Writing **beginner-friendly documentation** (README files, guides, tutorials)  
