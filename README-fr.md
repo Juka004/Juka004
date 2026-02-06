@@ -1,22 +1,43 @@
-markdown
-My First Project
+# Bonjour, je suis Jukaële 👋
 
-Welcome to my very first Git and Markdown project!
+Je suis développeuse en formation en Haïti. J’aime apprendre, comprendre les bases, et surtout les expliquer simplement pour aider d’autres débutants dans l’open source.
 
-Description
 
-This project allows me to learn:
-- The Markdown language
-- How to use Git from the command line
-- How to create files for documentation
 
-Objective
+## Ce sur quoi je travaille actuellement
 
-This repository is an exercise to prepare me to contribute to open source projects such as those at Outreachy.
+- Mieux maîtriser **Git, GitHub, Termux et Markdown**  
+- Contribuer à l’open source, pas à pas  
+- Créer de petits projets pour apprendre  
+- Rédiger une documentation claire et facile à comprendre
 
-Author
 
-Jukaële JN Louis  
-jnlouisjukaele@gmail.com
-```
 
+### Ce que je maîtrise
+
+- **Git / GitHub**  
+- **Termux**  
+- **Markdown**
+
+
+
+### Comment je contribue
+
+- Documentation **simple et accessible** (README, guides, tutoriels)  
+- Amélioration de documentation existante  
+- Explications claires pour les nouveaux contributeurs
+
+
+
+### Projet mis en avant
+
+- **Outreachy-documentation**  
+  Guides et notes pour débutants sur Git, Markdown et Termux.  
+   1. [Voir le dépôt](https://github.com/Juka004/Outreachy-documentation)
+
+
+
+### Me contacter
+
+- **Email :** jnlouisjukaele@gmail.com  
+- **GitHub :** [Juka004](https://github.com/Juka004)
